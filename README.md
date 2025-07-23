@@ -1,4 +1,4 @@
-**Concurrent Image-Processing Microservice**
+# ParallelPix - Concurrent Image-Processing Microservice
 
 This document serves as both the Product Requirements (PRD) and the `README.md` for the ParallelPix service: a Go-based, Fiber-driven microservice for asynchronous image uploads, processing, and retrieval.
 
